@@ -20,7 +20,7 @@ public class Calculator {
 		string1 = scnr.next();
 		
 				
-        System.out.println("Enter second string: ");
+                System.out.println("Enter second string: ");
 		string2 = scnr.next();
 		
 		for (int i = 0; i < string1.length(); ++i) {
